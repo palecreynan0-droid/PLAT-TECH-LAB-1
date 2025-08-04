@@ -1,8 +1,10 @@
 # PLAT-TECH-LAB-1
 Assignment nako kang sir eric
+
+
+
 #include <iostream>
 #include <string>
-
 
 using namespace std;
 int main() {
